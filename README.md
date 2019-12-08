@@ -6,4 +6,4 @@
 Note:
 dataset need to be loaded. 
 * You need to download glove.6B.100.d file in order to process the word embeddings in the program.
-* Data set and required files are given in the form of .rar file.
+* Data set and required files are given in the form of .rar file in the cloud.
